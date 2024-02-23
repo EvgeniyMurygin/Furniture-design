@@ -11,6 +11,7 @@ body{
 	color: $default;
 	overflow-x: hidden;
 	min-width: 300px;
+  background-color: #d7c5b1;
 }
 
 .wrapper {
@@ -56,7 +57,7 @@ body{
   }
   li.slick-active{
     button{
-      background-color: #FFEF35;
+      background-color: #fff;
     }
   }
 }
