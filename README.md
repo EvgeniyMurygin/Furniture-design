@@ -1,6 +1,6 @@
 # Дизайн мебели из дерева...
  
-- Многостраничный сайт [посмотрите здесь](https://evgeniymurygin.github.io/Furniture-collection/).
+- Многостраничный сайт [посмотрите здесь](https://evgeniymurygin.github.io/Furniture-design/).
 - Используется:
 - табы,
 - хлебные крошки,
